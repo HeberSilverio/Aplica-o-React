@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import HelloWorld from './components/HelloWorld';
+
 
 function App() {
   const name = 'Héber'
@@ -32,10 +34,11 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        >Learn React</a>
+        
+        <HelloWorld />
       </header>
+      
     </div>
   );
 }
