@@ -1,43 +1,18 @@
 import logo from './logo.svg';
 import './App.css';
-import HelloWorld from './components/HelloWorld';
-
+import SayMyName from './components/SayMyName';
+import Pessoa from './components/Pessoa';
 
 function App() {
-  const name = 'Héber'
-  const newName = name.toUpperCase()
+   const clienteNome = 'Isaque'
 
-  function sum(a, b) {
-    return a + b
-  }
-
-  const url = "https://via.placeholder.com/150"
-
-  return (
+    return (
     <div className="App">
-      <h1>Olá React</h1>
-      <p>Meu primeiro aplicativo em React</p>
-      <h2>Alterando o JSX</h2>
-      <p>Olá, {name}! Você gostaria de ter o nome sempre em maiúsculas, assim: {newName}? </p>
-      <p>Soma: {2 + 2}</p>
-      <p>Retorno da função soma: {sum(1, 2)}</p>
-      <img src={url} alt="Minha Imagem" />
       
-      
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edite <code>src/App.js</code> e salve para recarregar.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >Learn React</a>
-        
-        <HelloWorld />
-      </header>
+      <SayMyName nome="Matheus" />
+      <SayMyName nome="Héber" />
+      <SayMyName nome={clienteNome} />
+      <Pessoa nome="Rodrigo" idade="36" Profissao="Programador" foto="https://via.placeholder.com/150" />
       
     </div>
   );

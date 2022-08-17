@@ -2,6 +2,11 @@
 
 # Começando com Create React App
 
+Você encontra neste dois nesta url: 
+[Create React App](https://create-react-app.dev/).
+
+Ou neste repositório
+
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Scripts Disponíveis
@@ -9,6 +14,7 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 No diretório do projeto, você pode executar:
 
 ### `npm start`
+Obs: precisa estar dentro da pasta gestao-de-projetos
 
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
