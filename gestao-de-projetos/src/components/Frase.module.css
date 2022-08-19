@@ -1,0 +1,26 @@
+.fraseContainer {
+   background-color: #333;
+   color: #fff;
+   border-radius: 20px;
+   padding: 10px;
+   width: 100vh;
+   height: 70px;
+   
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.fraseContent {
+   color: #fff;
+   background-color: rgb(57, 131, 17);
+   margin: 0;
+   border-radius: 20px;
+   padding: 5px;
+   border: 3px solid #fff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
