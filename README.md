@@ -2,8 +2,8 @@
 
 O  objetivo deste projeto é criar uma lista de pokémons em ordem crescente. Cada item da lista deve conter imagem, número, nome e tipo.
 
-<a target="_blank" rel="noopener noreferrer" href="https3D.gif?raw=true">
-    <img src="https://githube3D.gif?raw=true" alt="ListaPokemon" style="max-width: 50%;">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Aplica-o-React/blob/main/lista-pokemon/src/img/ListaPokemonGif.gif">
+    <img src="https://github.com/HeberSilverio/Aplica-o-React/blob/main/lista-pokemon/src/img/ListaPokemonGif.gif" alt="ListaPokemon" style="max-width: 40%;">
 </a> </br>
 
 ## ⌨️ Como executar o projeto
