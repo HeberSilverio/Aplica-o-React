@@ -16,10 +16,16 @@ git clone https://github.com/HeberSilverio/Aplica-o-React.git
 
 No diretório do projeto, você pode executar:
 
-### `npm start`
+#### `npm start`
 
 Executa o aplicativo no modo de desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo em seu navegador.
+
+### Instruções para testar: 
+
+Instale dependências. No diretório do projeto, você pode executar:
+
+`npm i express npm i nodemon -D npm i ejs`
 
 
 ### 🛠️ Tecnologias utilizadas
@@ -66,6 +72,8 @@ Caso necessário consulte a documentação do <a href="https://gulpjs.com/" rel=
 `npm install -g sass`
 
 Caso necessário consulte a documentação do <a href="https://gulpjs.com/" rel="nofollow">Gulp.js</a>
+
+
 
 ## Autor
 Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
