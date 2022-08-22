@@ -39,7 +39,7 @@ Você encontra informações para utilizar este recurso nesta url:
 
 Ou neste repositório
 
-Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app)
 
 ### O Gulp neste projeto está sendo usado com plugins
 
@@ -61,7 +61,11 @@ Este projeto foi iniciado com [Create React App](https://github.com/facebook/cre
 
 Caso necessário consulte a documentação do <a href="https://gulpjs.com/" rel="nofollow">Gulp.js</a>
 
+### Neste caso deste projeto utilizando o Node.js, podemos instalar o Sass usando npm executando
 
+`npm install -g sass`
+
+Caso necessário consulte a documentação do <a href="https://gulpjs.com/" rel="nofollow">Gulp.js</a>
 
 ## Autor
 Desenvolvido por Héber Silvério 👋 Fique a vontade para se conectar
